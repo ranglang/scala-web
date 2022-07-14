@@ -1,0 +1,17 @@
+
+
+circle/resources/application.conf.local
+jep/resources/application.conf.local
+.metals/
+.scalafmt.conf
+.stignore
+.vscode/
+.DS_Store
+jep/.DS_Store
+out
+.idea
+.bloop
+.idea
+jep/src/.DS_Store
+jep/src/e/.DS_Store
+env.sc.bak
